@@ -1,4 +1,4 @@
-# finnanceapp
+![alt text](https://github.com/zihankitkat-web/finnanceapp/blob/main/assets/images/mycard.png?raw=true)
 
 A new Flutter project.
 
